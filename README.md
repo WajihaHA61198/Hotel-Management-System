@@ -33,3 +33,8 @@ The module consist of rooms specifically for all the types availablability accor
 This module having the prior reservation for better client experience.
 
 ![2021-12-10 (19)](https://user-images.githubusercontent.com/88322471/145542657-07323511-51be-462b-9f6b-66760aa809e6.png)
+
+
+## 	&#8226; About Us
+
+![2021-12-10 (20)](https://user-images.githubusercontent.com/88322471/145546707-4c8c974e-e733-4a37-8623-dd1e7c3a8396.png)
