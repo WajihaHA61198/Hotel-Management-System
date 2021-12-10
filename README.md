@@ -13,7 +13,7 @@ This unit provide authentication and secureness by access of modification rights
 
 ## 	&#8226; Main page
 It mainly consist of three modules:  
-   &#8227; Client 
+   &#8227; Client   
    &#8227; Room  
    &#8227; Reservation
    
